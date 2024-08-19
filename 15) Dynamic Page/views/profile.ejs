@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Profile page</title>
+</head>
+<body>
+    <%- include('common/header')%> 
+    <!-- is treekh sy ap ejs common files ko multiplepal jgha use kr skty ho -->
+    <h1>Welcome <%= user.name%> in the Profile Scetion</h1>
+    <h1>Welcome <%= user.email%> in the Profile Scetion</h1>
+    <h1>Welcome <%= user.age%> in the Profile Scetion</h1>
+    <ul>
+        <% user.lang.forEach(item => { %>
+          <li><%= item %></li>
+        <% }); %>
+    </ul>
+      
+</body>
+</html>
