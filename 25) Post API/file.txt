@@ -1,0 +1,4 @@
+1) Make POST API
+2) Send data from postman
+3) Get data in NodeJS by req
+4) Write code for insert data in mongoDb
