@@ -1,0 +1,3 @@
+1) make new file for delete data
+2) import mongoDb connection 
+3) Delete single & multi records
