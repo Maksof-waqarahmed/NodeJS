@@ -1,0 +1,24 @@
+1) How to insert data collection
+2) How to check inserted data
+3) How to update data 
+4) How to delete data
+
+Insert by Commad:
+data add using commad line: use e-commerce ==> db.products.insertOne({
+    id nh deni mongo khud he dega 
+    name: "laptop",
+    brand: "hp",
+    price: 250,
+    category: "laptop"
+})
+
+jb UI sy kry gy to key string me aye gi
+
+read by Commad:
+db.collection Name.find(): check krne k lye k collection me data h be ya nh command line sy 
+
+update by Commad:
+db.collection name.updateOne({name: "corei9"}, {$set:{price: 5000}} )
+
+Delete by Commad:
+db.collection name.deleteOne({"brand": "iphone"});
