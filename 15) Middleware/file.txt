@@ -1,0 +1,4 @@
+1) What are middleware
+2) How to make a middleware
+3) Apply middleware on routes
+4) Types of middleware
