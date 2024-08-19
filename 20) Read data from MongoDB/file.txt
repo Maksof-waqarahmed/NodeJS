@@ -1,0 +1,5 @@
+1) Read data from MongoDB
+2) make file for Db connection 
+3) Handle Promises 
+
+//ek db connection ke file alag bana dety h jb be db connect krna hous file ko use krlo or phr jo function lagana ho laga lo
