@@ -1,0 +1,5 @@
+1) make new file for update data
+2) import mongoDb connection 
+3) Update single & multi records
+
+//ek db connection ke file alag bana dety h jb be db connect krna hous file ko use krlo or phr jo function lagana ho laga lo
