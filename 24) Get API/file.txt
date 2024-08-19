@@ -1,0 +1,11 @@
+1) make new file for API
+2) import & use Mongo config 
+3) Make API for get data
+4) Test with postman
+
+
+// 4 basic APIs
+1) get
+2) post
+3) delete
+4) update
