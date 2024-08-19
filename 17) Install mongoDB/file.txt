@@ -1,0 +1,18 @@
+1) Download DB
+2) Install MongoDB
+3) Set Environment for MongoDB
+4) MongoDB compass tool 
+
+Mongo Compass: GUI bolty h isko jo apko sb chezy GUI based dekhata h..
+colletion: Group of MongoDB Document
+
+MongoDB: 
+1) it is an NoSQl DB. isme data collection me store hota h table k ander nh krty. collection me table/row k ander nh krty obj ke form me krty h data store.
+
+//important commad for DB
+1) show databases: to show all databses are present
+2) use (databasename): to  make new DB (isme collection banai hogijbi show hoga)
+3) db.createCollection('collection name');
+4) show collection: to show all collection 
+5) db.collectionName.drop(): to delete collection
+6) db.dropDatabase(): current db delete hoga current data me khare ho kr.
