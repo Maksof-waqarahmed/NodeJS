@@ -1,0 +1,3 @@
+1) install MongoDB Package 
+2) Connect MongDB with NodejS
+3) Show data from MongoDB
