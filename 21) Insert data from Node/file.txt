@@ -1,0 +1,5 @@
+1) make new file fro insert data
+2) import mongoDb connection 
+3) Insert single & multi record
+
+//ek db connection ke file alag bana dety h jb be db connect krna hous file ko use krlo or phr jo function lagana ho laga lo
